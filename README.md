@@ -1,4 +1,4 @@
-# Hi Person,
+# Hi,
 
 Working on some random projects and some stuff for school.
 
