@@ -1,11 +1,5 @@
 # Hi
 
-Working on some random projects and some stuff for school.
-
-- Learning languages as I go
-    - Now working on learning and trying flutter.
-    - Done some React Native, SQL, HTML5, CSS, SCSS, JAVASCRIPT, TYPESCRIPT, Arduino, Raspberry, and PHP
-
-## Current
+Working on some random projects and stuff for school.
 
 - Mechanical Engineering @ TU Eindhoven
